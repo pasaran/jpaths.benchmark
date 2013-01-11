@@ -13,9 +13,9 @@ jpaths.benchmark
 Участники забега
 ----------------
 
-  * no.jpath [nommon v0.0.12](https://github.com/pasaran/nommon) by @pasaran
-  * jspath [jspath v0.2.7](https://github.com/dfilatov/jspath) by @dfilatov
-  * jpath [jpath 0.0.18](https://github.com/artjock/jpath) by @artjock
+  * [nommon/no.jpath 0.0.12](https://github.com/pasaran/nommon)
+  * [jspath 0.2.7](https://github.com/dfilatov/jspath)
+  * [jpath 0.0.18](https://github.com/artjock/jpath)
 
 
 Текущие результаты
