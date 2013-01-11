@@ -181,13 +181,13 @@ var rows = {
         },
     },
 
-    '.books[ .author.name === "Robert C. Martin" ].title': {
+    '.books[ .author.name == "Robert C. Martin" ].title': {
         'no.jpath': {
             jpath: '.books[ .author.name == "Robert C. Martin" ].title',
             data: data
         },
         'jspath': {
-            jpath: '.books{.author.name === "Robert C. Martin"}.title',
+            jpath: '.books{.author.name == "Robert C. Martin"}.title',
             data: data
         },
         'jpath': {
