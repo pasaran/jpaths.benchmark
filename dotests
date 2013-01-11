@@ -91,7 +91,6 @@ var rows = {
         },
     },
 
-    /*
     '.foo[ .bar ]': {
         'no.jpath': {
             jpath: '.foo[ .bar ]',
@@ -301,7 +300,6 @@ var rows = {
             data: data
         }
     },
-    */
 
 };
 
