@@ -187,7 +187,7 @@ var rows = {
             data: data
         },
         'jspath': {
-            jpath: '.books{.author.name == "Robert C. Martin"}.title',
+            jpath: '.books{.author.name === "Robert C. Martin"}.title',
             data: data
         },
         'jpath': {
@@ -247,7 +247,7 @@ var rows = {
             data: data
         },
         'jspath': {
-            jpath: '.books{ .price < 17 || .author.name == "Robert C. Martin" }.title',
+            jpath: '.books{ .price < 17 || .author.name === "Robert C. Martin" }.title',
             data: data
         },
         'jpath': {

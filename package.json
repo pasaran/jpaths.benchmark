@@ -18,7 +18,7 @@
     "dependencies": {
         "no.benchmark": "0.0.1",
         "nommon": "0.0.12",
-        "jspath": "0.2.7",
+        "jspath": "0.2.9",
         "jpath": "0.0.18"
     }
 }
